@@ -14,5 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: love many food especially (medanese food)
 
-
 that's it. 
