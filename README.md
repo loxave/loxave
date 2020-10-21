@@ -11,13 +11,9 @@ I'm interested in Android Development things also UX Design sometimes
 
 Cheers :beers:
 
-
-
-
 ### My Skills
 
 <p>
-  <img alt="Flutter" src="https://img.shields.io/badge/-Flutter-347AB4?style=flat-square&logo=flutter&logoColor=white" />
   <img alt="Kotlin" src="https://img.shields.io/badge/-Kotlin-347AB4?style=flat-square&logo=kotlin&logoColor=white" />
    <img alt="Java" src="https://img.shields.io/badge/-java-347AB4?style=flat-square&logo=java&logoColor=white" />
   <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
