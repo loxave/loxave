@@ -7,7 +7,6 @@ I'm interested in Android Development things also UX Design sometimes
 - 💬 Ask me about anyting, i am happy to help :)
 - 📫 How to reach me: [Twitter/zenpardosi_](https://twitter.com/zenpardosi_) also (https://www.linkedin.com/in/zen-fanny-parulian-pardosi-7b79321a)
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: love many food especially (medanese food)
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/zenpardosi_?label=Follow&style=social)](https://twitter.com/zenpardosi)
 [![Discord](https://img.shields.io/discord/574799330406432769.svg?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2)](https://discord.gg/KV2G8B3)
