@@ -18,7 +18,6 @@ Cheers :beers:
 <p>
   <img alt="Kotlin" src="https://img.shields.io/badge/-Kotlin-347AB4?style=flat-square&logo=kotlin&logoColor=white" />
    <img alt="Java" src="https://img.shields.io/badge/-java-347AB4?style=flat-square&logo=java&logoColor=white" />
-  <img alt="github" src="https://img.shields.io/badge/-Github-F05032?style=flat-square&logo=github&logoColor=white" />
   <img alt="Dart" src="https://img.shields.io/badge/-Dart-46a2f1?style=flat-square&logo=dart&logoColor=white" />
   <img alt="Android" src="https://img.shields.io/badge/-Android-AAC148?style=flat-square&logo=android&logoColor=white" />
 </p>
