@@ -3,7 +3,7 @@
 I'm interested in Android Development things also UX Design sometimes
 
 - 🔭 I’m currently working on something cool
-- 🌱 I’m currently learning Kotlin
+- 🌱 I’m currently learning Dart
 - 💬 Ask me about anyting, i am happy to help :)
 - 📫 How to reach me: [Twitter/zenpardosi_](https://twitter.com/zenpardosi_) 
 - 😄 Pronouns: He/Him
