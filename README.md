@@ -3,7 +3,7 @@
 I'm interested in Android Development things also UX Design sometimes
 
 - 🔭 I’m currently working on something cool
-- 🌱 I’m currently learning Dart
+- 🌱 I’m currently learning Flutter
 - 💬 Ask me about anything, i am happy to help :)
 - 📫 How to reach me: [Twitter/zenpardosi_](https://twitter.com/zenpardosi_) 
 - 😄 Pronouns: He/Him
@@ -12,9 +12,6 @@ I'm interested in Android Development things also UX Design sometimes
 [![Discord](https://img.shields.io/discord/574799330406432769.svg?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2)](https://discord.gg/KV2G8B3)
 
 Cheers :beers:
-
-
-
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=zenpardosi.zenpardosi)
 <!--
