@@ -1,4 +1,4 @@
-### Hi there, I'm Zen 👋
+### Hi there! I'm Zen 👋
 
 I'm interested in Android Development stuff also UX Design sometimes
 
