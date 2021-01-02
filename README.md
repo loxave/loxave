@@ -2,8 +2,8 @@
 
 I'm interested in Android Development stuff also UX Design sometimes
 
-- 🔭 I’m currently working on something cool
-- 🌱 I’m currently learning Flutter
+- 🔭 I’m currently playing Chess
+- 🌱 I’m currently learning, mean re-learn Java
 - 💬 Ask me about anything, i am happy to help :)
 - 📫 How to reach me: [Twitter/zenpardosi_](https://twitter.com/zenpardosi_) 
 - 😄 Pronouns: He/Him
