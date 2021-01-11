@@ -29,8 +29,6 @@
 ![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=flat-square&logo=Android-Studio&logoColor=ffffff)
 ![Microsoft Edge](https://img.shields.io/badge/Microsoft_Edge-0078D7?style=flat-square&logo=Microsoft-Edge&logoColor=white)
 
-Cheers :beers:
-
 ### My Skills
 
 <p>
@@ -48,11 +46,13 @@ Cheers :beers:
 </details>
 
 ##
-<h4><b><samp>Let's connect with me:</samp></b></h4>
+<h4><b><samp>Let's connect with me :</samp></b></h4>
 
 [![Twitter](https://img.shields.io/badge/@zenpardosi_-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/zenpardosi_)
 [![Linkedin](https://img.shields.io/badge/zen-pardosi-7b79321aa/?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/zen-pardosi-7b79321aa) 
 [![Discord](https://img.shields.io/discord/574799330406432769.svg?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2)](https://discord.gg/KV2G8B3)
 
+
+Cheers :beers:
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=zenpardosi.zenpardosi)
