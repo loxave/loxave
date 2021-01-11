@@ -1,11 +1,14 @@
-### Hi there! I'm Zen 👋
+###
 
-I'm interested in Android Development stuff also UX Design sometimes
+<p align="center"><h1 align="center"><samp>  Hi there! I'm Zen 👋 </samp></h1></p>
+<p align="center"><h4 align="center"><samp> keen in Android Development stuff also UX Design sometimes </samp></h4></p>
+<br>
+<div>
 
-- 🔭 I’m currently playing Chess
-- 🌱 I’m currently learning, mean re-learn Java
+
+- 🔭 I’m currently playing Chess.com 
+- 🌱 I’m currently learning, i mean re-learn Java also Data Structure and Algorithm.
 - 💬 Ask me about anything, i am happy to help :)
-- 📫 How to reach me: [Twitter/zenpardosi_](https://twitter.com/zenpardosi_) 
 - 😄 Pronouns: He/His
 
 <h4><b><samp>Frameworks and Languages</samp></b></h4>
