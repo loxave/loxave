@@ -10,19 +10,18 @@ I'm interested in Android Development stuff also UX Design sometimes
 
 <h4><b><samp>Frameworks and Languages</samp></b></h4>
 
-<!-- <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/github/github.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>-->
-<!-- ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code> 
+
 
 ![Flutter](https://img.shields.io/badge/Flutter-47c5fb?style=flat-square&logo=Flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-2bb7f6?style=flat-square&logo=Dart&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ea2d2f?style=flat-square&logo=java&logoColor=ffffff)
 
 
-<h4><b><samp>Tools and Platform</samp></b></h4>
-
+<h4><b><samp>Tools and Platform</samp></b></h4
 
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)
 ![Github Actions](https://img.shields.io/badge/Github_Actions-2088FF?style=flat-square&logo=Github-Actions&logoColor=ffffff)
@@ -48,28 +47,17 @@ Cheers :beers:
   <img alt="Android" src="https://img.shields.io/badge/-Android-AAC148?style=flat-square&logo=android&logoColor=white" />
 </p>
 
-
 <details>
   <summary><b><samp>📈 My GitHub Stats</samp></b></summary>
 <br>
 <p align="center"> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=himanshusharma89&hide_langs_below=1&&show_icons=true&title_color=08fdd8&icon_color=bb2acf&text_color=ffffff&bg_color=242424"/> <img align="center" src="https://github-readme-stats.vercel.app/api?username=himanshusharma89&&show_icons=true&title_color=08fdd8&icon_color=bb2acf&text_color=ffffff&bg_color=242424"/>
  </p>
-
 </details>
 
 ##
-
 <h4><b><samp>Connect with me:</samp></b></h4>
 
 [![Contact](https://img.shields.io/badge/contact@himanshusharma.tech-0075c8?style=flat-square&logo=gmail&logoColor=white)](mailto:contact@himanshusharma.tech)
 
 [![Twitter](https://img.shields.io/badge/@zenpardosi_-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/zenpardosi_)
 [![Linkedin](https://img.shields.io/badge/zen-pardosi-7b79321aa/?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/zenpardosi) 
-
-<!--
-### Gihub Stats
-<p><img src="https://github-readme-stats.vercel.app/api?username=zenpardosi&amp;show_icons=true&amp;count_private=true&amp;theme=cobalt" alt="GitHub Stats"></p>
-
-<!--
-### Top Languages
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zenpardosi&amp;layout=compact" alt="Top Languages"></p>
