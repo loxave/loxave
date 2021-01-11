@@ -57,4 +57,4 @@ Cheers :beers:
 <h4><b><samp>Connect with me:</samp></b></h4>
 
 [![Twitter](https://img.shields.io/badge/@zenpardosi_-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/zenpardosi_)
-[![Linkedin](https://img.shields.io/badge/zen-pardosi-7b79321aa/?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/zenpardosi) 
+[![Linkedin](https://img.shields.io/badge/zen-pardosi-7b79321aa/?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/zen-pardosi-7b79321aa) 
