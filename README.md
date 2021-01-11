@@ -49,14 +49,12 @@ Cheers :beers:
 <details>
   <summary><b><samp>📈 My GitHub Stats</samp></b></summary>
 <br>
-<p align="center"> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=himanshusharma89&hide_langs_below=1&&show_icons=true&title_color=08fdd8&icon_color=bb2acf&text_color=ffffff&bg_color=242424"/> <img align="center" src="https://github-readme-stats.vercel.app/api?username=himanshusharma89&&show_icons=true&title_color=08fdd8&icon_color=bb2acf&text_color=ffffff&bg_color=242424"/>
+<p align="center"> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=loxave&hide_langs_below=1&&show_icons=true&title_color=08fdd8&icon_color=bb2acf&text_color=ffffff&bg_color=242424"/> <img align="center" src="https://github-readme-stats.vercel.app/api?username=loxave&&show_icons=true&title_color=08fdd8&icon_color=bb2acf&text_color=ffffff&bg_color=242424"/>
  </p>
 </details>
 
 ##
 <h4><b><samp>Connect with me:</samp></b></h4>
-
-[![Contact](https://img.shields.io/badge/contact@himanshusharma.tech-0075c8?style=flat-square&logo=gmail&logoColor=white)](mailto:contact@himanshusharma.tech)
 
 [![Twitter](https://img.shields.io/badge/@zenpardosi_-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/zenpardosi_)
 [![Linkedin](https://img.shields.io/badge/zen-pardosi-7b79321aa/?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/zenpardosi) 
