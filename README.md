@@ -6,7 +6,31 @@ I'm interested in Android Development stuff also UX Design sometimes
 - 🌱 I’m currently learning, mean re-learn Java
 - 💬 Ask me about anything, i am happy to help :)
 - 📫 How to reach me: [Twitter/zenpardosi_](https://twitter.com/zenpardosi_) 
-- 😄 Pronouns: He/Him
+- 😄 Pronouns: He/His
+
+<h4><b><samp>Frameworks and Languages</samp></b></h4>
+
+<!-- <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/github/github.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>-->
+<!-- ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
+
+![Flutter](https://img.shields.io/badge/Flutter-47c5fb?style=flat-square&logo=Flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-2bb7f6?style=flat-square&logo=Dart&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ea2d2f?style=flat-square&logo=java&logoColor=ffffff)
+
+
+<h4><b><samp>Tools and Platform</samp></b></h4>
+
+
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)
+![Github Actions](https://img.shields.io/badge/Github_Actions-2088FF?style=flat-square&logo=Github-Actions&logoColor=ffffff)
+![Firebase](https://img.shields.io/badge/Firebase-ffcb2c?style=flat-square&logo=Firebase&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=flat-square&logo=Visual-Studio-Code&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=flat-square&logo=Android-Studio&logoColor=ffffff)
+![Microsoft Edge](https://img.shields.io/badge/Microsoft_Edge-0078D7?style=flat-square&logo=Microsoft-Edge&logoColor=white)
+
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/zenpardosi_?label=Follow&style=social)](https://twitter.com/zenpardosi_)
 [![Discord](https://img.shields.io/discord/574799330406432769.svg?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2)](https://discord.gg/KV2G8B3)
@@ -23,6 +47,24 @@ Cheers :beers:
   <img alt="Dart" src="https://img.shields.io/badge/-Dart-46a2f1?style=flat-square&logo=dart&logoColor=white" />
   <img alt="Android" src="https://img.shields.io/badge/-Android-AAC148?style=flat-square&logo=android&logoColor=white" />
 </p>
+
+
+<details>
+  <summary><b><samp>📈 My GitHub Stats</samp></b></summary>
+<br>
+<p align="center"> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=himanshusharma89&hide_langs_below=1&&show_icons=true&title_color=08fdd8&icon_color=bb2acf&text_color=ffffff&bg_color=242424"/> <img align="center" src="https://github-readme-stats.vercel.app/api?username=himanshusharma89&&show_icons=true&title_color=08fdd8&icon_color=bb2acf&text_color=ffffff&bg_color=242424"/>
+ </p>
+
+</details>
+
+##
+
+<h4><b><samp>Connect with me:</samp></b></h4>
+
+[![Contact](https://img.shields.io/badge/contact@himanshusharma.tech-0075c8?style=flat-square&logo=gmail&logoColor=white)](mailto:contact@himanshusharma.tech)
+
+[![Twitter](https://img.shields.io/badge/@zenpardosi_-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/zenpardosi_)
+[![Linkedin](https://img.shields.io/badge/zen-pardosi-7b79321aa/?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/zenpardosi) 
 
 <!--
 ### Gihub Stats
