@@ -33,7 +33,7 @@
 
 <p>
   <img alt="Kotlin" src="https://img.shields.io/badge/-Kotlin-347AB4?style=flat-square&logo=kotlin&logoColor=white" />
-   <img alt="Java" src="https://img.shields.io/badge/-java-347AB4?style=flat-square&logo=java&logoColor=white" />
+   <img alt="Java" src="https://img.shields.io/badge/-Java-347AB4?style=flat-square&logo=java&logoColor=white" />
   <img alt="Dart" src="https://img.shields.io/badge/-Dart-46a2f1?style=flat-square&logo=dart&logoColor=white" />
   <img alt="Android" src="https://img.shields.io/badge/-Android-AAC148?style=flat-square&logo=android&logoColor=white" />
 </p>
@@ -46,7 +46,7 @@
 </details>
 
 ##
-<h4><b><samp>Let's connect with me :</samp></b></h4>
+<h4><b><samp> Let's connect with me:</samp></b></h4>
 
 [![Twitter](https://img.shields.io/badge/@zenpardosi_-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/zenpardosi_)
 [![Linkedin](https://img.shields.io/badge/zen-pardosi-7b79321aa/?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/zen-pardosi-7b79321aa) 
