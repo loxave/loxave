@@ -5,8 +5,7 @@
 <br>
 <div>
 
-
-- 🔭 I’m currently playing Chess.com 
+- 🔭 I’m currently playing Chess
 - 🌱 I’m currently learning, i mean re-learn Java also Data Structure and Algorithm.
 - 💬 Ask me about anything, i am happy to help :)
 - 😄 Pronouns: He/His
@@ -21,7 +20,6 @@
 ![Flutter](https://img.shields.io/badge/Flutter-47c5fb?style=flat-square&logo=Flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-2bb7f6?style=flat-square&logo=Dart&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ea2d2f?style=flat-square&logo=java&logoColor=ffffff)
-
 
 <h4><b><samp>Tools and Platform</samp></b></h4
 
@@ -52,7 +50,6 @@
 [![Linkedin](https://img.shields.io/badge/zen-pardosi-7b79321aa/?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/zen-pardosi-7b79321aa) 
 [![Discord](https://img.shields.io/discord/574799330406432769.svg?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2)](https://discord.gg/KV2G8B3)
 
-
-Cheers :beers:
+Cheers:beers:
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=zenpardosi.zenpardosi)
