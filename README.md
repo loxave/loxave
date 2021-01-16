@@ -8,7 +8,7 @@
 - 🔭 I’m currently playing Chess
 - 🌱 I’m currently learning, i mean re-learn Java also Data Structure and Algorithm.
 - 💬 Ask me about anything, i am happy to help :)
-- 😄 Pronouns: He/His
+- 😄 Pronouns: He/Him
 
 <h4><b><samp>Frameworks and Languages</samp></b></h4>
 
