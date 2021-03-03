@@ -1,6 +1,6 @@
 ###
 
-<p align="center"><h1 align="center"><samp>  Hi there! I'm Zen 👋 </samp></h1></p>
+<p align="center"><h1 align="center"><samp>  Hi there! It's me Zen 👋 </samp></h1></p>
 <p align="center"><h4 align="center"><samp> interested in Android Development stuff also UX Design sometimes </samp></h4></p>
 <br>
 <div>
@@ -8,7 +8,7 @@
 - 🔭 I’m currently playing Chess
 - 🌱 I’m currently learning, i mean re-learn Java also Data Structure and Algorithm.
 - 💬 Ask me about anything, i am happy to help :)
-- 😄 Pronouns: He/Him
+- 😄 Pronouns: He/His/Him
 
 <h4><b><samp>Frameworks and Languages</samp></b></h4>
 
