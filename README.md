@@ -6,7 +6,7 @@
 <div>
 
 - 🔭 I’m currently playing Chess
-- 🌱 I’m currently learning, i mean re-learn Java also Data Structure and Algorithm.
+- 🌱 I’m currently learning, i mean re-learn Java, Data Structure and Algorithm also.
 - 💬 Ask me about anything, i am happy to help :)
 - 😄 Pronouns: He/His/Him
 
