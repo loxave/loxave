@@ -1,7 +1,7 @@
 ###
 
 <p align="center"><h1 align="center"><samp>  Hi there! It's me Zen 👋 </samp></h1></p>
-<p align="center"><h4 align="center"><samp> interested in Android Development stuff also UX Design sometimes </samp></h4></p><br>
+<p align="center"><h4 align="center"><samp> keen in Android Development stuff also UX Design sometimes </samp></h4></p><br>
 <div>
 
 - 🔭 I’m currently playing Chess
