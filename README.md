@@ -1,10 +1,13 @@
 ###
 
+
 <p align="center"><h1 align="center"><samp>  Hi there! It's me Zen 👋 </samp></h1></p>
 <p align="center"><h4 align="center"><samp> keen in Android Development stuff also UX Design sometimes </samp></h4></p><br>
 <div>
 
+<!--
 - 🔭 I’m currently playing Chess also
+-->
 - 🌱 I’m currently learning, i mean re-learn Java, Data Structure and Algorithm also.
 - 💬 Ask me about anything, i am happy to help :)
 - 😄 Pronouns: He/His/Him
