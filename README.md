@@ -11,7 +11,7 @@
 - 🌱 I’m currently learning, i mean re-learn Java, Data Structure and Algorithm also.
 - 💬 Ask me about anything, i am happy to help :)
 - 😄 Pronouns: He/His/Him
-- 💬 It's ok not to be ok
+- 💬 Quote: It's ok not to be ok
 
 <h4><b><samp>Frameworks and Languages</samp></b></h4>
 
