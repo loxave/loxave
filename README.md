@@ -8,7 +8,7 @@
 <!--
 - 🔭 I’m currently playing Chess also
 -->
-- 🌱 I’m currently learning, i mean re-learn Java, Data Structure and Algorithm also.
+- 🌱 I’m currently still learning, i mean re-learn Data Structure and Algorithm also.
 - 💬 Ask me about anything, i am happy to help :)
 - 😄 Pronouns: He/His/Zen
 - 💬 Quote: It's ok not to be ok
