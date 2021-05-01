@@ -26,7 +26,7 @@
 
 ![Kotlin](https://img.shields.io/badge/Kotlin-47c5fb?style=flat-square&logo=kotlin&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-2bb7f6?style=flat-square&logo=dart&logoColor=ffffff)
-![Java](https://img.shields.io/badge/Java-ea2d2f?style=flat-square&logo=java&logoColor=ffffff)
+![Java](https://img.shields.io/badge/Java-ea2d2f?style=flat-square&logo=java&logoColor=white)
 
 <h4><b><samp>Tools and Platform</samp></b></h4
 
