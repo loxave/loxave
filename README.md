@@ -12,11 +12,6 @@
 - 💬 Ask me about anything, i am happy to help :)
 - 😄 Pronouns: He/His/Zen
 - 💬 Quote: It's ok not to be ok
-- ⚡ Things I love besides coding:
-      Playing chess ♟️
-      Do read books 🎮
-      Listening podcast 🎨
-      Watching anime 📺
 
 <h4><b><samp>Frameworks and Languages</samp></b></h4>
 
