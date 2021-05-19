@@ -12,6 +12,7 @@
 - 💬 Ask me about anything, i am happy to help :)
 - 😄 Pronouns: He/His/Zen
 - 💬 Quote: It's ok not to be ok
+- ⚡ Funfact: I Love watching film, listen to music
 
 <h4><b><samp>Frameworks and Languages</samp></b></h4>
 
