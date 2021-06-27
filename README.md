@@ -12,7 +12,7 @@
 - 💬 Ask me about anything, i am happy to help :)
 - 😄 Pronouns: He/His/Zen
 - 💬 Quote: It's ok not to be ok
-- ⚡ Funfact: I'm big fan of Isyana Sarasvati! Much love LOL
+- ⚡ Funfact: I'm big fan of Isyana Sarasvati! Much love LOL, Love to play CS:Halflife!
 
 <h4><b><samp>Frameworks and Languages</samp></b></h4>
 
