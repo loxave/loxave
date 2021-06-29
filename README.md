@@ -8,11 +8,11 @@
 <!--
 - 🔭 I’m currently playing Chess also
 -->
-- 🌱 I’m currently learning, i mean re-learn Data Structure also Algorithm .
+- 🌱 I’m currently learning, i mean re-learn Data Structure also Algorithm.
 - 💬 Ask me about anything, i am happy to help :)
 - 😄 Pronouns: He/His/Zen
 - 💬 Quote: It's ok not to be ok
-- ⚡ Funfact: I'm big fan of Isyana Sarasvati! Much love LOL, Love to play CS:Halflife!
+- ⚡ Funfact: I'm big fan of Isyana Sarasvati! Much love LOL. Love to play CS:Halflife!
 
 <h4><b><samp>Frameworks and Languages</samp></b></h4>
 
