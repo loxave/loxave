@@ -2,7 +2,7 @@
 
 
 <p align="center"><h1 align="center"><samp>  Hi there, it's me Zen 👋 </samp></h1></p>
-<p align="center"><h4 align="center"><samp> a student Informatic Engineering doing Android dev things also UX Design sometimes </samp></h4></p><br>
+<p align="center"><h4 align="center"><samp> a student Informatic Engineering doing Android dev things also UX Design sometimes. </samp></h4></p><br>
 <div>
 
 <!--
