@@ -8,7 +8,7 @@
 <!--
 - 🔭 I’m currently playing Chess also
 -->
-- 🌱 I’m currently as a Junior Product Manager at HukumOnline
+- 🌱 I’m currently as a Junior Product Manager Intern at HukumOnline
 - 💬 Ask me about anything, i am happy to help!
 - 😄 Pronouns: He/His/Zen.
 - 💬 Quote: Do something today, that your future self will thank you for.
