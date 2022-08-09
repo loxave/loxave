@@ -49,8 +49,8 @@
 ##
 <h4><b><samp> Let's connect with me:</samp></b></h4>
 
-[![Twitter](https://img.shields.io/badge/@sheesh3z_-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/zen4r17)
-<!-- [![Linkedin](https://img.shields.io/badge/zen-pardosi-7b79321aa/?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/zenpardosi/)  />-->
+<!--[![Twitter](https://img.shields.io/badge/@sheesh3z_-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/zen4r17)/>-->
+[![Linkedin](https://img.shields.io/badge/zen-pardosi-7b79321aa/?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/zenpardosi/)  
 [![Discord](https://img.shields.io/discord/574799330406432769.svg?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2)](https://discord.gg/KV2G8B3)
  
 
